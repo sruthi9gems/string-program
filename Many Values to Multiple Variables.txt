@@ -1,0 +1,15 @@
+Many Values to Multiple Variables
+
+
+a="Orange"
+b="Banana"
+c="Cherry"   #rather than writing in split python allows you to assign values to multiple variables in one line
+print(a)
+print(b)
+print(c)
+
+x, y, z = "Orange", "Banana", "Cherry"   #like this
+
+print(x)
+print(y)
+print(z)
